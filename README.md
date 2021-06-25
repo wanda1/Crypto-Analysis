@@ -7,4 +7,4 @@ ALPACA_SECRET_KEY = 'insert secret key here'</br></br>
 
 QUANDL_API_KEY = 'insert key here'</br></br>
 
-I will insert an empty .env file then all you will have to do is insert your keys, this is a crucial step in order for the code to work.
+I will insert an empty .env file to make the process easier, then all you will have to do is insert your keys, this is a crucial step in order for the code to work.
