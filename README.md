@@ -6,8 +6,8 @@ The second part of the code uses Monte Carlo to predict the outcomes of AAG and 
 It also uses 95% lower and upper confidence intervals to predict the price range these stocks could target based on various initial investments. </br></br>
 
 ## This code requires a .env containing API keys (Alpaca API)</br>
-when creating your .env file, try to have the file type as "No File Extension" and make sure that the .env file has no title. Have the file in this format:</br></br>
+When creating your .env file, try to have the file type as "No File Extension" and make sure that the .env file has no title. Have the file in this format:</br></br>
 ALPACA_API_KEY = 'Insert key here'</br></br>
 
-ALPACA_SECRET_KEY = 'insert secret key here'</br></br>
+ALPACA_SECRET_KEY = 'Insert secret key here'</br></br>
 
