@@ -1,4 +1,4 @@
-# API-Homework
+# Crypto Analysis
 This code will be analyzing a personal potfolio containing BTC, ETH, AAG, and SPY.</br></br>
 The first part of the code pulls price data using Alpaca for stock data and Alternative.me for crypto data.</br></br>
 It then creates a dataframe displaying the personal portfolio and using if statements to determine with the portfolio is worth more than an emergency fund.</br></br>
